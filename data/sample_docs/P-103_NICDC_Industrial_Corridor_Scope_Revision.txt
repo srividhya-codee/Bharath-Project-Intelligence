@@ -1,0 +1,25 @@
+================================================================================
+*** SYNTHETIC DEMONSTRATION DATA — FOR PROTOTYPE PURPOSES ONLY ***
+Not an official Government of India document. All figures and names are illustrative.
+================================================================================
+
+PROJECT CODE: P-103
+PROJECT NAME: Integrated Multi-Modal Logistics Hub & Industrial Node - Demo
+MINISTRY: Ministry of Commerce and Industry / MeitY
+IMPLEMENTING AGENCY: National Industrial Corridor Development Corporation (NICDC)
+LOCATION: Rajasthan / NCR Region
+DOCUMENT TYPE: Review Report
+PAGE: 1 of 2
+
+1. REVISED COST ESTIMATE (RCE) APPRAISAL
+- Original Approved Cost: Rs. 2,100.00 Cr
+- Revised Estimated Cost (RCE-I): Rs. 2,680.00 Cr
+- Cost Overrun: +Rs. 580.00 Cr (+27.6% variance)
+- Planned Physical Progress: 55.0% | Actual Physical Progress: 51.0% (SPI: 0.927)
+
+2. ROOT CAUSES OF COST VARIANCE:
+(a) Major Scope Expansion: Post-award addition of a 45 MLD Zero Liquid Discharge (ZLD) common effluent treatment plant and an automated 12-track railway freight interchange siding not envisaged in the preliminary feasibility study.
+(b) Inflationary Adjustment on Structural Steel & Cement: Base index escalation under standard price revision clauses accounted for Rs. 142.00 Cr.
+(c) Elevated Multi-Level Grade Separators: Redesign to accommodate NHAI expressway crossing clearances required redesigning 3 elevated flyovers.
+Status: Revised Cost Estimate has been submitted to the Public Investment Board (PIB) for formal sanction.
+================================================================================

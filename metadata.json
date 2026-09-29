@@ -1,0 +1,8 @@
+{
+  "name": "Bharat Project Intelligence",
+  "description": "AI-Powered Integrated Government Project Monitoring & Decision Support Platform for large infrastructure and development projects across India.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,25 @@
+================================================================================
+*** SYNTHETIC DEMONSTRATION DATA — FOR PROTOTYPE PURPOSES ONLY ***
+Not an official Government of India document. All figures and names are illustrative.
+================================================================================
+
+PROJECT CODE: P-106
+PROJECT NAME: Rapid Transit Metro Rail Extension Reach Package - Demo
+MINISTRY: Ministry of Housing and Urban Affairs (MoHUA)
+IMPLEMENTING AGENCY: Bangalore Metro Rail Corporation Limited (BMRCL) / Joint Venture
+LOCATION: Karnataka (Bengaluru)
+DOCUMENT TYPE: Review Report
+PAGE: 1 of 2
+
+1. BENCHMARK COMPLETION AUDIT & CLOSE-OUT REPORT
+- Approved Capital Cost: Rs. 3,200.00 Cr | Final Incurred Cost: Rs. 3,248.00 Cr (+1.5% cost variation within permissible contingency reserve)
+- Physical Progress: 100.0% (Completed & Revenue Operations Commenced)
+- Sanctioned Timeline: 48 months | Actual Duration: 49.5 months (+1.5 months variance)
+- Overall SPI at Commissioning: 0.99 | Overall CPI: 0.985
+
+2. BENCHMARKING LESSONS LEARNED FOR PEER PROJECTS:
+(a) Pre-construction RoW Acquisition: 92% of continuous alignment acquired before issuing civil tender awards eliminated standing machinery claims.
+(b) Integrated Utility Tunneling: Common duct utility shifting protocol prevented municipal dispute delays.
+(c) Digital Twin & 4D BIM Integration: Monitored viaduct girder launching in real time, preventing structural deviations.
+This project serves as an operational benchmark across urban metro and rapid transit infrastructure portfolios.
+================================================================================

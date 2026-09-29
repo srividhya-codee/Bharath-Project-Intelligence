@@ -1,0 +1,23 @@
+================================================================================
+*** SYNTHETIC DEMONSTRATION DATA — FOR PROTOTYPE PURPOSES ONLY ***
+Not an official Government of India document. All figures and names are illustrative.
+================================================================================
+
+PROJECT CODE: P-104
+PROJECT NAME: 500 MW Ultra-Mega Grid-Connected Solar Park - Demo
+MINISTRY: Ministry of New and Renewable Energy (MNRE) / Ministry of Power
+IMPLEMENTING AGENCY: Solar Energy Corporation of India / State Renewable Nodal Agency
+LOCATION: Rajasthan (Jodhpur Region)
+DOCUMENT TYPE: Inspection Report
+PAGE: 1 of 2
+
+1. PROJECT RECONCILIATION SUMMARY
+- Approved Cost: Rs. 1,850.00 Cr | Expended: Rs. 1,420.00 Cr (76.8%)
+- Solar Array Physical Progress: 88.0% (Photovoltaic module mounting and inverter stations nearly complete)
+- Grid Interconnection Physical Progress: 28.0%
+- Net Physical Progress: 64.0% vs Planned Target: 85.0% (Gap: 21.0%, SPI: 0.753)
+
+2. CORE BOTTLENECK: POWER EVACUATION SYSTEM MISMATCH
+Generation capacity (400 MW DC installed) is ready for generation. However, power evacuation is physically blocked because the 400/220 kV Inter-State Transmission System (ISTS) pooling sub-station being constructed by the designated transmission utility has suffered a 7-month delay. The transmission delay was triggered by Right-of-Way disputes over 18 transmission tower footings across private agricultural farmland.
+Recommendation: Coordinate urgent tripartite meeting between MNRE, Central Electricity Authority (CEA), and CTUIL to fast-track tower stringing.
+================================================================================

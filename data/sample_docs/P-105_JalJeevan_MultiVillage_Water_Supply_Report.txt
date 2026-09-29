@@ -1,0 +1,26 @@
+================================================================================
+*** SYNTHETIC DEMONSTRATION DATA — FOR PROTOTYPE PURPOSES ONLY ***
+Not an official Government of India document. All figures and names are illustrative.
+================================================================================
+
+PROJECT CODE: P-105
+PROJECT NAME: Multi-Village Rural Water Supply Scheme - Demo
+MINISTRY: Ministry of Jal Shakti
+IMPLEMENTING AGENCY: State Water and Sanitation Mission (SWSM) / District Water Board
+LOCATION: Bihar & Uttar Pradesh Border Districts
+DOCUMENT TYPE: Financial Report
+PAGE: 1 of 2
+
+1. FINANCIAL-PHYSICAL DIVERGENCE AUDIT
+- Approved Capital Outlay: Rs. 640.00 Cr
+- Central & State Funds Released: Rs. 545.00 Cr (85.2% of sanctioned budget)
+- Expenditure Booked by Implementing Agency: Rs. 512.00 Cr (80.0%)
+- Target Planned Physical Progress: 75.0%
+- Verified Actual Physical Progress: 44.0%
+- Financial vs Physical Gap: +36.0 percentage points (Severe anomaly flagged by early-warning system)
+
+2. AUDIT FINDINGS:
+(a) Massive Advance Disbursement for HDPE / DI Pipe Procurement: Out of Rs. 512 Cr expenditure, Rs. 210 Cr was disbursed to pipe manufacturers without delivery at village distribution centers.
+(b) Stalled Village Reticulation Networks: In-village household tap connection piping is stalled across 124 gram panchayats due to pending road-cutting permissions from Rural Works Department.
+(c) High Risk Flag: Early warning engine has classified P-105 as Critical Risk (Risk Score 86/100) due to funds utilisation significantly outpacing commissioned physical infrastructure.
+================================================================================

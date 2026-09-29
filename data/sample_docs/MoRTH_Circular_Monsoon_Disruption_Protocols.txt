@@ -1,0 +1,19 @@
+================================================================================
+*** SYNTHETIC DEMONSTRATION DATA — FOR PROTOTYPE PURPOSES ONLY ***
+Not an official Government of India document. All figures and names are illustrative.
+================================================================================
+
+CIRCULAR NO: MoRTH/RW/NH/STANDARD-EOT/2023/CIRCULAR-04
+MINISTRY: Ministry of Road Transport and Highways (MoRTH)
+DOCUMENT TYPE: Circular
+SUBJECT: Standard Operating Protocol for Time Extension (EOT) on Account of Abnormal Monsoon Disruption and Force Majeure
+PAGE: 1 of 2
+
+1. BACKGROUND
+Severe localized precipitation events and extended monsoon seasons frequently impede bituminous laying and earthwork operations across national highway packages. Disparate regional interpretations have led to contractual disputes and litigation.
+
+2. POLICY DIRECTIVES:
+(a) Verification of Rain Gauge Records: Contractor claims for weather delay must be substantiated with official Indian Meteorological Department (IMD) rainfall observatory data showing rainfall exceeding 150% of the long-term regional average.
+(b) Non-Levy of Liquidated Damages: Where rainfall prevents execution of critical path activities (GSB, WMM, Bituminous surfacing), Project Directors are authorized to grant interim schedule relief without imposing liquidated damages, provided non-monsoon milestones are maintained.
+(c) Idle Machinery Compensation: No idle equipment charges shall be admissible unless explicit standing orders to demobilize were withheld by the Authority's Engineer.
+================================================================================

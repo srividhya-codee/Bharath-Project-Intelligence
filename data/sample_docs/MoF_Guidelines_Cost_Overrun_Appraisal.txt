@@ -1,0 +1,23 @@
+================================================================================
+*** SYNTHETIC DEMONSTRATION DATA — FOR PROTOTYPE PURPOSES ONLY ***
+Not an official Government of India document. All figures and names are illustrative.
+================================================================================
+
+OFFICE MEMORANDUM: MoF/DoE/PFC-I/REVISED-COST/2024/09
+MINISTRY: Ministry of Finance, Department of Expenditure
+DOCUMENT TYPE: Circular / Financial Guidelines
+SUBJECT: Appraisal and Approval Procedure for Revised Cost Estimates (RCE) in Central Infrastructure Projects Exceeding Rs. 500 Crore
+PAGE: 1 of 2
+
+1. REVISED COST THRESHOLDS
+In accordance with Cabinet Secretariat instructions, any infrastructure project under central ministries experiencing:
+(a) Cost overrun exceeding 10% of the originally approved capital expenditure, OR
+(b) Time overrun exceeding 12 months from original sanction date,
+shall mandatorily undergo appraisal by the Committee of Secretaries followed by approval by the Public Investment Board (PIB) / Cabinet Committee on Economic Affairs (CCEA).
+
+2. DETERMINATION OF ACCOUNTABILITY
+Every RCE submission must classify variance drivers into two categories:
+- Controllable Factors: Delays in tender finalization, inadequate contractor supervision, contractual laxity, or unapproved scope modifications.
+- Uncontrollable Factors: Statutory environmental court stays, natural disasters, geologically unforeseen tunneling complications, or wholesale price index escalation.
+Officers must incorporate Earned Value metrics (SPI, CPI, EAC) in all revised appraisal memorandums.
+================================================================================

@@ -1,0 +1,34 @@
+================================================================================
+*** SYNTHETIC DEMONSTRATION DATA — FOR PROTOTYPE PURPOSES ONLY ***
+Not an official Government of India document. All figures and names are illustrative.
+================================================================================
+
+PROJECT CODE: P-102
+PROJECT NAME: Four-Laning of National Highway Corridor Package - Demo
+MINISTRY: Ministry of Road Transport and Highways (MoRTH)
+IMPLEMENTING AGENCY: National Highways Authority of India (NHAI)
+LOCATION: Tamil Nadu (Madurai - Tirunelveli Section)
+DOCUMENT TYPE: DPR (Detailed Project Report) - Executive Summary
+DOCUMENT SENSITIVITY: Public
+PAGE: 1 of 4
+
+1. EXECUTIVE BRIEF
+The Detailed Project Report (DPR) outlines the capacity augmentation of the existing two-lane carriageway to a four-lane dual carriageway configuration spanning 78.4 km in Tamil Nadu. The project objective is to de-congest the regional freight corridor, improve logistics velocity, and enhance road safety standards.
+
+2. FINANCIAL APPRAISAL & BUDGET ALLOCATION
+- Total Approved Capital Cost: Rs. 1,250.00 Crore (Civil Works: Rs. 980.00 Cr; Land Acquisition & R&R: Rs. 195.00 Cr; Utility Shifting & Environmental Mitigation: Rs. 75.00 Cr).
+- Concession / EPC Model: Engineering, Procurement, Construction (EPC) standard mode.
+- Initial Scheduled Date of Completion: 36 calendar months from Appointed Date (March 31, 2025).
+
+3. KEY RIGHT-OF-WAY (RoW) REQUIREMENTS
+Total land required for 60-meter RoW across 14 revenue villages is 164.8 hectares, comprising:
+- Private agricultural land: 112.4 hectares (Section 3A/3D notifications issued).
+- Government revenue poramboke land: 38.2 hectares.
+- Reserved forest fringe diversion: 14.2 hectares requiring Stage-I FC clearance under Forest Conservation Act.
+
+4. ANTICIPATED CRITICAL PATH RISKS
+The preliminary alignment survey identifies three primary bottlenecks:
+(a) Acquisition of private land pockets in District revenue taluks.
+(b) Heavy underground utility relocation (TANGEDCO electrical lines and TWAD drinking water pipes).
+(c) Vulnerability to intense Northeast monsoon rainfall between October and December.
+================================================================================

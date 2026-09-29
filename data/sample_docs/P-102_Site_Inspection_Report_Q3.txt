@@ -1,0 +1,26 @@
+================================================================================
+*** SYNTHETIC DEMONSTRATION DATA — FOR PROTOTYPE PURPOSES ONLY ***
+Not an official Government of India document. All figures and names are illustrative.
+================================================================================
+
+PROJECT CODE: P-102
+PROJECT NAME: Four-Laning of National Highway Corridor Package - Demo
+DOCUMENT TYPE: Inspection Report
+INSPECTION DATE: August 2024
+INSPECTING AUTHORITY: Independent Engineer / Regional Office, NHAI
+PAGE: 4 of 6
+
+OBSERVATIONS AND BOTTLENECK ANALYSIS:
+
+1. PHYSICAL VS PLANNED STATUS
+At the close of Q3 FY24-25, cumulative planned physical progress was scheduled at 80.0%, whereas verified actual on-ground physical progress is lagging at 62.0% (a shortfall gap of 18.0 percentage points, SPI = 0.775). In contrast, cumulative financial expenditure stands at Rs. 1,050.00 Cr (84.0% of approved budget), reflecting an anomalous financial-physical expenditure gap of 22.0 percentage points.
+
+2. MAJOR CAUSES OF SITE DELAY (VERIFIED ON SITE):
+(a) Unhanded Right-of-Way (RoW): A contiguous 14.5 km stretch between Chainage 42+000 and Chainage 56+500 has not been handed over encumbrance-free to the EPC contractor due to pending land compensation arbitration with local landholders.
+(b) Utility Shifting Impasse: High-tension 110kV electrical powerline crossings at Chainage 28+400 and 51+200 remain un-shifted pending shutdown approvals from the State transmission utility.
+(c) Severe Monsoon Disruption: Incessant pre-monsoon and monsoon downpours triggered embankment erosion along Chainage 18+000 to 24+000, halting granular sub-base (GSB) paving for 42 consecutive working days.
+(d) Material Procurement Friction: Supply shortages of aggregates from licensed regional stone quarries following strict environmental mining enforcement orders.
+
+3. FORECAST & RECOMMENDATION
+Based on current progress velocity, project completion is likely to suffer an estimated delay of approximately 90 to 100 days (approx. 3 months), shifting expected completion to July 2025. It is recommended that the Project Director convene a joint meeting with the District Collector for urgent RoW clearance.
+================================================================================

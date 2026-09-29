@@ -1,0 +1,75 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15-alpine
+    container_name: bpi_postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-bpi_user}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-bpi_password}
+      POSTGRES_DB: ${POSTGRES_DB:-bharat_project_intel}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER:-bpi_user} -d ${POSTGRES_DB:-bharat_project_intel}"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  chroma:
+    image: chromadb/chroma:0.5.5
+    container_name: bpi_chroma
+    restart: unless-stopped
+    environment:
+      - IS_PERSISTENT=TRUE
+      - PERSIST_DIRECTORY=/chroma/chroma
+      - ANONYMIZED_TELEMETRY=FALSE
+    ports:
+      - "8000:8000"
+    volumes:
+      - chroma_data:/chroma/chroma
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: bpi_backend
+    restart: unless-stopped
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      - DATABASE_URL=postgresql://${POSTGRES_USER:-bpi_user}:${POSTGRES_PASSWORD:-bpi_password}@postgres:5432/${POSTGRES_DB:-bharat_project_intel}
+      - CHROMA_HOST=chroma
+      - CHROMA_PORT=8000
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+      - GEMINI_MODEL=${GEMINI_MODEL:-gemini-2.0-flash}
+      - AI_MODE=${AI_MODE:-mock}
+      - JWT_SECRET=${JWT_SECRET:-insecure_demo_secret_key_change_in_production_12345}
+      - ENVIRONMENT=development
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./backend:/app
+      - ./data:/app/data
+      - ./scripts:/app/scripts
+
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile.frontend
+    container_name: bpi_web
+    restart: unless-stopped
+    ports:
+      - "3000:3000"
+    environment:
+      - VITE_API_BASE_URL=http://localhost:8080/api/v1
+    depends_on:
+      - backend
+
+volumes:
+  postgres_data:
+  chroma_data:
